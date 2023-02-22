@@ -1,0 +1,11 @@
+[package]
+name = "pba-entrance-exam"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+count-of = { path = "./count-of" }
+# There should be NO external additions here, per the honor code.
+# If you want or need to create a local dependancy, you may do so.
